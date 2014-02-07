@@ -1,0 +1,11 @@
+{
+  "name": "bkts",
+  "version": "0.0.1",
+  "description": "launch the Brackets editor from the command line",
+  "main": "index.js",
+  "bin": {
+    "bkts": "index.js"
+  },
+  "author": "max ogden",
+  "license": "BSD"
+}
