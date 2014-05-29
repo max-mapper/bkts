@@ -4,7 +4,8 @@
   "description": "launch the Brackets editor from the command line",
   "main": "index.js",
   "bin": {
-    "bkts": "index.js"
+    "bkts": "index.js",
+    "[]": "index.js"
   },
   "author": "max ogden",
   "license": "BSD"
